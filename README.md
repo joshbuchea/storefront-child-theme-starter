@@ -43,4 +43,4 @@ If you happened to name the Storefront theme directory anything else besides "st
 
 ## License
 
-Open sourced under the [MIT license](LICENSE.md).
+Licensed under [MIT](LICENSE).
